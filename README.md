@@ -1,4 +1,7 @@
 # Particle-Swarm-Optimization
+
+![Screenshot (5)](https://user-images.githubusercontent.com/103449830/231280146-2d3fcddb-2f5c-47fc-82dc-c9c046d48a03.png)
+
 Well, first of all, let me give an explanation about the code files that exist.
 
 We have a series of functions that we know what the optimal result will be (such as the Rosen Brock function and the Sphere function).
@@ -35,4 +38,3 @@ Now what are the decision variables!?
 --THE END--
 
 
-![Screenshot (5)](https://user-images.githubusercontent.com/103449830/231280146-2d3fcddb-2f5c-47fc-82dc-c9c046d48a03.png)
